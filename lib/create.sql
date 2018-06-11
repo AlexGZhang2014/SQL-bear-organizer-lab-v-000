@@ -5,6 +5,6 @@ CREATE TABLE bears (
   gender CHAR(1),
   color TEXT,
   temperament TEXT,
-  alive TINYINT(1)
+  alive INTEGER(1)
 );
 
