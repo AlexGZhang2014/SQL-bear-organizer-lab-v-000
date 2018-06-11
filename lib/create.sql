@@ -1,3 +1,1 @@
-CREATE TABLE bears (
- 
-);
+CREATE TABLE bears ();
